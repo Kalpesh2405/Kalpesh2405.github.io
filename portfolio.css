@@ -1,0 +1,237 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: rgb(37, 37, 37);
+    color: rgb(236, 234, 234);
+    margin: 0px 0px 0px 0px;
+}
+
+.heading{
+    display: inline-block;
+    height: 65px;
+    width: 545px;
+    padding: 8px 7px;
+    text-align: left;
+    margin: 140px 190px;
+    font-size: 80px;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+code{
+    font-size: 32px;
+}
+#image{
+    width: 400px;
+    margin-left: 720px;
+    margin-top: -300px;
+}
+nav{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position:fixed;
+    background-color: rgb(70, 68, 68);
+    height: 28px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    width: 100%;
+
+}
+
+.navb{
+    font-weight: 700;
+    color: rgb(10, 10, 10);
+    background-color: rgb(243, 240, 240);
+    border-radius: 5px;
+    padding: 5px 28px;
+    margin: 4px;
+    text-decoration: none;
+}
+.navb:hover{
+    background-color: rgb(37, 37, 37);
+    color: rgb(211, 210, 210);
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    margin-left: 665px;
+    padding-top: 70px;
+    transition: all .3s linear;
+}
+.li1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    margin-left: 650px;
+    padding: 10px 10px;
+}
+#ul2{
+    margin-left: 365px;
+    margin-top: -255px;
+}
+
+.skills{
+    width: 42%;
+    margin-top: -350px;
+    margin-bottom: 10px;
+}
+
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px; 
+    margin-left: 85px;
+    height: 15px;
+    padding-top: 60px;
+}
+.uom{
+    width: 40%;
+    margin-left: 110px;
+    margin-top: -20px;
+    padding-top: 5px;
+}
+.ibm{
+    width: 25%;
+    margin-top: 60px;
+}
+.hku{
+    width:15%;
+}
+#newli{
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    margin-left: 65px;
+    background-image: linear-gradient(to bottom right, #9100ff , rgb(247, 0, 255));
+}
+h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px; 
+    padding-left: 515px;
+    padding-top: 55px;
+}
+#school{
+    margin-top: -150px;
+    float: left;
+    margin-left: 80px;
+    width: 260px;
+}
+#college{
+    display:inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px; 
+    width: 48%;
+    margin-top: -20px;
+    margin-left: 125px;
+    padding-left: 70px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    background-image: linear-gradient(to bottom right, #9100ff , rgb(247, 0, 255));
+}
+#ull{
+    background-image: linear-gradient(to bottom right, #9100ff , rgb(247, 0, 255));
+    width: 100%;
+}
+h1::first-line{
+    color:#9100ff;
+}
+h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px; 
+    margin-left: 85px;
+    margin-bottom: 40px;  
+    padding-top: 60px;
+}
+#read{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    display: inline-block; 
+    margin-left: 80px;
+    padding-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#gym{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px; 
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#trek{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    display: inline-block; 
+    margin-left: 150px;
+    padding-right: 160px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#reading{
+    width:250px;
+    margin-left: 65px;
+    margin-top: 30px;
+}
+
+#gymming{
+    width:260px;
+    margin-left: 130px;
+}
+#trekking{
+    width: 250px;
+    margin-left: 135px;
+}
+p{
+    background-image: linear-gradient(#9100ff , rgb(247, 0, 255));
+}
+#hobbs{
+    background-image: linear-gradient(#9100ff , rgb(247, 0, 255));
+    display: inline-block;
+}
+#embed5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px; 
+    margin-left: 830px;
+    margin-bottom: 35px;
+}
+iframe{
+    margin-left: 50px;
+}
+span{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h6{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;  
+    display: inline-block;
+    margin-top: 50px;
+    background-image: linear-gradient(to bottom right, #9100ff , rgb(247, 0, 255));
+    padding-left: 50px;
+    padding-right: 20px;
+}
+#sub{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;  
+    background-color: aliceblue;
+    border-radius: 20px;
+    text-decoration: none;
+    color:red;
+    font-weight: 700;
+    padding: 2px 10px 2px 10px;
+}
+#sub:hover{
+    background-color: rgb(252, 0, 0);
+    color:aliceblue;
+}
+footer{
+    background-color: #363636;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+#icon1:hover{
+    content:"\f205";
+}
+
